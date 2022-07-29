@@ -1,0 +1,4 @@
+• Upstreamed kernel to 4.14.289
+• Dropped custom lockscreen clocks
+• Fixed lockscreen double line clock allignment
+• Fixed mic not working in google apps
