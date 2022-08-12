@@ -1,0 +1,18 @@
+• August Security Patch
+• Upstreamed kernel to 4.14.290
+• Redesigned keyguard shortcuts
+• Added force FP authentication after reboot (Disabled if encrypted)
+• Added Smart Cutoff feature
+• Added Pixel navigation home button animation toggle
+• Disable blur wakeup animation
+• Added QS tile layout feature
+• Added colored statusbar icons toggle
+• Added configurable lockscreen timeout
+• Added visual preview in edge lighting preference
+• Allow luminance value to go as low as 0
+• Added Metro Music as prebuilt local music player app (Deal with it)
+• Fixed dark theme coloring of panels
+• Show only Build ID in about phone
+• Commented out Legal/Regulatory info and feedback preference in about phone
+• Protect sensitive info on About device (IMEI/Phone No.)
+• Fixed google recorder voice recording and transcriptions
