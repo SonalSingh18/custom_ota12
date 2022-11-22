@@ -1,0 +1,14 @@
+• Implement background process killer
+• Introduce keyguard battery bar settings
+• Fix QS tile reset text color
+• Add QS tile layout settings
+• Introduce automated Sleep Mode
+• Follow light/dark theme in SplitShade Header
+• Fix black qqs on keyguard in light theme
+• Follow light/dark theme settings in privacy indicators
+• Follow Dark/Light theme for Safe Mode dialog
+• Added Statusbar Clock background chip
+• Added Compass tile
+• Rearranged settings dashboard preferences
+• Removed Gamespace launcher icon
+• Added modded Pixel Launcher from Team Files
