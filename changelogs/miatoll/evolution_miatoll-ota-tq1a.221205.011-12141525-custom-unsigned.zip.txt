@@ -1,0 +1,8 @@
+• Evolution-X changes with December QPR1 patch
+• Removed lockscreen shortcuts
+• Removed hide lockscreen shortcuts toggle
+• Removed force background freezer
+• Removed keyguard battery settings
+• Removed QS tile layout settings
+• Removed statusbar clock background chip
+• Added QS data usage layout
