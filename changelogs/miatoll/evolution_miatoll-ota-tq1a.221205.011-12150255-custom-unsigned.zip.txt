@@ -1,0 +1,11 @@
+• Removed lockscreen shortcuts
+• Removed hide lockscreen shortcuts toggle
+• Removed force background freezer
+• Removed keyguard battery settings
+• Removed QS tile layout settings
+• Removed statusbar clock background chip
+• Switched to normal stock pixel launcher
+• Can just flash lsposed zygisk and enable pixel launcher double tap to sleep to use dt2s in homescreen
+• Removed QS footer custom text feature
+• Added QS data usage layout
+• Enabled smart pixels support
